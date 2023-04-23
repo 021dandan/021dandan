@@ -1,7 +1,7 @@
 ## Coe, sou o mn danzk
 
 
-- 🔭 Hoje sou iniciante em progamação
+- 🔭 Engineer software
 - 👾 Estudando python
 - 🤑 Discord:danzk-#7108
 
